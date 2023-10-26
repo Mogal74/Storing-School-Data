@@ -1,0 +1,14 @@
+M:\phase-1 practice projects\section-9\School Data\School Data\bin\Debug\net7.0\School Data.exe
+M:\phase-1 practice projects\section-9\School Data\School Data\bin\Debug\net7.0\School Data.deps.json
+M:\phase-1 practice projects\section-9\School Data\School Data\bin\Debug\net7.0\School Data.runtimeconfig.json
+M:\phase-1 practice projects\section-9\School Data\School Data\bin\Debug\net7.0\School Data.dll
+M:\phase-1 practice projects\section-9\School Data\School Data\bin\Debug\net7.0\School Data.pdb
+M:\phase-1 practice projects\section-9\School Data\School Data\obj\Debug\net7.0\School Data.GeneratedMSBuildEditorConfig.editorconfig
+M:\phase-1 practice projects\section-9\School Data\School Data\obj\Debug\net7.0\School Data.AssemblyInfoInputs.cache
+M:\phase-1 practice projects\section-9\School Data\School Data\obj\Debug\net7.0\School Data.AssemblyInfo.cs
+M:\phase-1 practice projects\section-9\School Data\School Data\obj\Debug\net7.0\School Data.csproj.CoreCompileInputs.cache
+M:\phase-1 practice projects\section-9\School Data\School Data\obj\Debug\net7.0\School Data.dll
+M:\phase-1 practice projects\section-9\School Data\School Data\obj\Debug\net7.0\refint\School Data.dll
+M:\phase-1 practice projects\section-9\School Data\School Data\obj\Debug\net7.0\School Data.pdb
+M:\phase-1 practice projects\section-9\School Data\School Data\obj\Debug\net7.0\School Data.genruntimeconfig.cache
+M:\phase-1 practice projects\section-9\School Data\School Data\obj\Debug\net7.0\ref\School Data.dll
